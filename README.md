@@ -16,7 +16,7 @@ A Probability and statistics project from the students of
 # &nbsp;&nbsp;&nbsp;&nbsp;[23BEC1270 Athithiya P A](https://github.com/athisivesh) <br>
 
 Faculty:
-# Prof. Revathi G K
+# Prof. G K Revathi
 Subject:
 # BMAT202P Probability and Statistics Lab (L43+L44) 
 
